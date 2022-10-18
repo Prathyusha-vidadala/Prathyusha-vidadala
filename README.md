@@ -7,7 +7,7 @@
 
  About Me
   
-- 👨‍💻 All about me is at [My Website](https://chandrikadeb7.github.io/)
+- 👨‍💻 All about me is at [My Website] <!--(https://chandrikadeb7.github.io/)-->
 
 - 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "CSS","Java Script" ] ```
 
