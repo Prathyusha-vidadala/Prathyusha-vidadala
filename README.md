@@ -24,7 +24,7 @@
 <code>git commit -m "All about GitHub!"</code> :grin:
 <code>git commit -m "All about Web Development ("JS", "React","Pyton","SQL")!"</code> :hourglass:-->
 <h2 align="left">Languages and Tools:</h2>
-- <h3 align="left">👨‍💻Programming Language:</h3>
+<h3 align="left">👨‍💻Programming Language:</h3>
 
 
 
