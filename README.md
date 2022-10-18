@@ -16,7 +16,6 @@
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
-### What can I help with:question::cyclone:
+<!--### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
-
-<code>git commit -m "All about Web Development ("JS", "React","Pyton","SQL")!"</code> :grin:
+<code>git commit -m "All about Web Development ("JS", "React","Pyton","SQL")!"</code> :grin:-->
