@@ -29,6 +29,6 @@
 
 
 <h3 align="left">Frontend Development:</h3>
-<h3 align="left">Database and Cloud Hosting:</h3>
-<h3 align="left">Software and tools:</h3>
+<h3 align="left">🗄️Database and Cloud Hosting:</h3>
+<h3 align="left">💻Software and tools:</h3>
 <h3 align="left"> Visuvalization:</h3>
