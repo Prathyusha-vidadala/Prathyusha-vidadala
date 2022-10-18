@@ -16,7 +16,7 @@
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[100DaysOfCode]()</code>:hourglass:     
+<code>[]()</code>:hourglass:     
 <code>[]()</code>:mask:  
 <code>[]()</code>:robot:
 
