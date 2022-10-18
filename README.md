@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Prathyusha</h1>
 <h3 align="center">"Hello, I'm a Cyber Analyst at Orcalo Holdings"</h3>
@@ -9,6 +6,8 @@
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
   
 - 👨‍💻 All about me is at [My Website] <!--(https://chandrikadeb7.github.io/)-->
+
+- 📝 I am Enthusiastic about Web Development
 
 - 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "CSS","Java Script" ] ```
 
