@@ -25,8 +25,6 @@
 <code>git commit -m "All about Web Development ("JS", "React","Pyton","SQL")!"</code> :hourglass:-->
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left"> 👨‍💻Programming Language:</h3>
-
-
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
