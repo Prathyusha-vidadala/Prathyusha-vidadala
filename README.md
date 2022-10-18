@@ -18,4 +18,4 @@
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
-<code>
+<code>git commit -m "All about Web Development ("JS", "React","Pyton","SQL")!"</code>
