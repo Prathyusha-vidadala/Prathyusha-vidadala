@@ -11,7 +11,7 @@
 
 - 📝 I am Enthusiastic about Web Development
 
-- 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "CSS","Java Script" ] ```
+- 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "Java Script" ] ```
 
 - 📫 How to reach me **prathyusha1998.v@gmail.com**
 
