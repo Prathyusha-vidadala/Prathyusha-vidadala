@@ -24,7 +24,7 @@
 
 <!--### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
-<code>git commit -m "All about Web Development ("JS", "React","Pyton","SQL")!"</code> :hourglass:-->
+<code>git commit -m "All about Web Development ("JS", "React"),("Pyton","SQL")!"</code> :hourglass:-->
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">👨‍💻Programming Language:</h3>
 
@@ -33,4 +33,4 @@
 <h3 align="left">📝Frontend Development:</h3>
 <h3 align="left">🗄️Database and Cloud Hosting:</h3>
 <h3 align="left">💻Software and tools:</h3>
-<h3 align="left"> Visuvalization:</h3>
+
