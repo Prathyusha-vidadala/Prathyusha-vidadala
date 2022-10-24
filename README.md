@@ -29,15 +29,8 @@ var developements = {
     },
     
     "App Development" : {
-        "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", ] ,
-        //"Frameworks & Tools" : ["React-Native", "Gradle", "Android Studio", "Google APIs"]//
+        "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", ]
     },
-    
-    //Desktop App Development" : {
-        "Languages" : ["JavaScript", "TypeScript"] ,
-        "Libraries" : ["Electron.js"]
-    },//
-    
     "Version Control":["Git", "Github", "Bitbucket"],
 }
 ```
