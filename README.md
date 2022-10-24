@@ -17,6 +17,31 @@
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
+**A Little bit more about me**
+
+var developements = {
+    "Concepts" : [ "OOPS", "Problem Solving", "REST" ],
+    
+    "Web Development" : {
+        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
+        "Frameworks" : [ "Node.js", "MySQL", "React",  "Bootstrap", 
+                       "Webpack", "Loopback" ]
+    },
+    
+    "App Development" : {
+        "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", ] ,
+        <!--"Frameworks & Tools" : ["React-Native", "Gradle", "Android Studio", "Google APIs"]-->
+    },
+    
+    <!--"Desktop App Development" : {
+        "Languages" : ["JavaScript", "TypeScript"] ,
+        "Libraries" : ["Electron.js"]
+    },-->
+    
+    "Version Control":["Git", "Github", "Bitbucket"],
+}
+```
+
 ### What are my featured projects:question::rocket:
 <code>[]()</code>:hourglass:     
 <code>[]()</code>:mask:  
