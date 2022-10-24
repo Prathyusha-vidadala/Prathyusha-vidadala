@@ -20,7 +20,7 @@
 **A Little bit more about me**
 
 var developements = {
-    "Concepts" : [ "OOPS", "Problem Solving", "REST" ],
+    "Concepts" : [ "OOPS", "Python", "C" "Problem Solving" ],
     
     "Web Development" : {
         "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
@@ -30,13 +30,13 @@ var developements = {
     
     "App Development" : {
         "Languages" : ["HTML", "CSS", "JavaScript", "TypeScript", ] ,
-        <!--"Frameworks & Tools" : ["React-Native", "Gradle", "Android Studio", "Google APIs"]-->
+        //"Frameworks & Tools" : ["React-Native", "Gradle", "Android Studio", "Google APIs"]//
     },
     
-    <!--"Desktop App Development" : {
+    //Desktop App Development" : {
         "Languages" : ["JavaScript", "TypeScript"] ,
         "Libraries" : ["Electron.js"]
-    },-->
+    },//
     
     "Version Control":["Git", "Github", "Bitbucket"],
 }
