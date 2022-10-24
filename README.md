@@ -31,16 +31,16 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=iamPrathyusha-vidadala&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathyusha-vidadala&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamPrathyusha-vidadala&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamPrathyusha-vidadala&theme=vue" />
 </p>
