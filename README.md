@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Prathyusha</h1>
 <h3 align="center">"Hello, I'm a Web Developer at Orcalo Holdings"</h3>
 
- **About Me**
+ **About Me:**
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
   
 - 📚 I'm currently a Master's in Cyber Security student at UOH
