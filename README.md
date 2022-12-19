@@ -22,7 +22,7 @@
 <code>[Personal Potfolio](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
 <!-- <code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot: -->
 
-**<!--### What can I help with:question::cyclone:
+<!--### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
 <code>git commit -m "All about Web Development ("JS", "React"),("Pyton","SQL")!"</code> :hourglass:-->
 
