@@ -19,7 +19,7 @@
 
 ### What are my featured projects:question::rocket:
 <code>[]()</code>:hourglass:     
-<code>[]()</code>:mask:  
+<code>[Ready to]()</code>:Deploy:  
 <code>[]()</code>:robot:
 
 <!--### What can I help with:question::cyclone:
