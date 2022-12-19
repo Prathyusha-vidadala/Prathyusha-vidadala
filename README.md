@@ -18,8 +18,8 @@
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
-<code>[Face Mask Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
+<code>[Ready To Deploy](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
+<code>[Personal Potfolio](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
 <code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot:
 
 <!--### What can I help with:question::cyclone:
