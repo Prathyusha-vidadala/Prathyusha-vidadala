@@ -19,7 +19,7 @@
 
 ### What are my featured projects:question::rocket:
 <code>[Ready To Deploy](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
-<code>[Personal Potfolio](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
+<code>[](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
 <!-- <code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot: -->
 
 <!--### What can I help with:question::cyclone:
