@@ -45,6 +45,10 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
 </p> -->
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+---
+[![](https://visitcount.itsvg.in/api?id=prathyusha-vidadala&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <div align="left">
 
