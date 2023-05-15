@@ -18,7 +18,7 @@
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
+<code>[Developer's Guide](https://github.com/Prathyusha-vidadala/100DaysOfCode)</code>:hourglass:     
 <code>[](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
 <!-- <code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot: -->
 
