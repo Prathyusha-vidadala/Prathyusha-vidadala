@@ -5,7 +5,7 @@
  **About Me:**
  <img align="right" alt="GIF" src="https://github.com/piyush97/piyush97/blob/master/code.gif?raw=true" width="300" height="220" />
   
-- 📚  I completed my Master's in Cyber Security Master's in Cyber Security student at UOH
+- 📚  I successfully earned my Master's in Cyber Security from the University of Hertfordshire.
  
 - 👨‍💻 All about me is at [My Website] <!--(https://chandrikadeb7.github.io/)-->
 
