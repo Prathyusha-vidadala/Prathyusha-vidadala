@@ -9,9 +9,9 @@
  
 - 👨‍💻 All about me is at [My Website] <!--(https://chandrikadeb7.github.io/)-->
 
-- 📝 I am Enthusiastic about Web Development
+- 📝 I am Enthusiastic about (*********)
 
-- 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "Java Script", "React.Js"] ```
+- 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "Java Script", "Power BI", "MY SQL", Sql Server] ```
 
 - 📫 How to reach me **prathyusha1998.v@gmail.com**
 
