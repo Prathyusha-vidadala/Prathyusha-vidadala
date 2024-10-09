@@ -11,7 +11,7 @@
 
 - 📝 I am Enthusiastic about (*********)
 
-- 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "Java Script", "Power BI", "MY SQL", Sql Server] ```
+- 💬 Ask me about ``` var topics = [ "Kali Linux", "Wireshark", "Python", "Java Script", "Power BI", "MY SQL", "Sql Server", "Excel"] ```
 
 - 📫 How to reach me **prathyusha1998.v@gmail.com**
 
